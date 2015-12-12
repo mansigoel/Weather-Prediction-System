@@ -1,5 +1,3 @@
+# Basic Implementation of Observer Pattern and Threads in JAVA
 
-
-
-
-## Best project ever built :) # AP-Lab-10
+Made weather prediction system as a part of Java Lab Assignment
